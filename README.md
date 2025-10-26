@@ -71,9 +71,10 @@ Kruskal’s algorithm executed faster on this dataset, likely due to efficient s
 
 ## 4. References
 
-- GeeksForGeeks. *“Difference between Prim’s and Kruskal’s Algorithm”*  
-  [https://www.geeksforgeeks.org/difference-between-prims-and-kruskals-algorithm/](https://www.geeksforgeeks.org/difference-between-prims-and-kruskals-algorithm/)
-- CLRS (Cormen et al.) *Introduction to Algorithms, 3rd Edition.*
+1. Wikipedia. *«Алгоритм Крускала»* — [https://ru.wikipedia.org/wiki/Алгоритм_Крускала](https://ru.wikipedia.org/wiki/Алгоритм_Крускала)
+2. Wikipedia. *«Алгоритм Прима»* — [https://ru.wikipedia.org/wiki/Алгоритм_Прима](https://ru.wikipedia.org/wiki/Алгоритм_Прима)
+3. Habr. *«Алгоритмы поиска минимального остовного дерева: Прима и Крускала»* — [https://habr.com/ru/articles/569444/](https://habr.com/ru/articles/569444/)
+
 
 ---
 
