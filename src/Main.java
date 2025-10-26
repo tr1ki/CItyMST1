@@ -11,7 +11,7 @@ public class Main {
         JsonObject input = gson.fromJson(new FileReader("input.json"), JsonObject.class);
 
         // Deserialize the list of graphs from the JSON input
-        List<Graph> graphs = Arrays.asList(gson.fromJson(input.get("graphs"), Graph[].class));
+        Graph[] graphs = gson.fromJson(input.get("graphs"), Graph[].class);
 
         // Prepare an array to store all computation results
         JsonArray results = new JsonArray();
